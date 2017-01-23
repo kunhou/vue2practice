@@ -1,6 +1,7 @@
-# myproj
+# Vue2.0 SPA
 
-> A Vue.js project
+> Vue2.0 SPA Demo build by Patrice
+> Vue2 + Vue-router + Element
 
 ## Build Setup
 
